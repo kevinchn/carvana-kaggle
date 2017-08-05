@@ -1,5 +1,6 @@
 A solution for <https://www.kaggle.com/c/carvana-image-masking-challenge>  
-Model with strided, dilated, and transposed convolutions.
+1. Strided and transposed convolutions
+2. Added dilated convs
 
 Notebook might have a lot of images so it takes a while to load.
 
